@@ -5,3 +5,4 @@ _site/
 vendor/
 _data/portfolio.yml
 npm-debug*
+.jekyll-cache/
